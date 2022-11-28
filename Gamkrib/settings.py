@@ -16,7 +16,7 @@ SECRET_KEY = 'k(8ela%bf2jt8k&5=8&8_x6)at&@hc8s7hv2l37q$mucq+9646'
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = ['https://gamkrib-backend.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://web-production-e7a3.up.railway.app']
 
 
 # Application definition
